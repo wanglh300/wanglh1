@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student majoring in Cybersecurity at the School of Information Science and Engineering, Shandong Normal University.
+I am a third-year undergraduate student majoring in Cybersecurity at the [School of Information Science and Engineering](http://www.ischool.sdnu.edu.cn/), [Shandong Normal University]http://www.sdnu.edu.cn/.
 
 A data-driven personal website
 ======
