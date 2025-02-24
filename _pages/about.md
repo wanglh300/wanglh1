@@ -15,7 +15,6 @@ He is a third-year undergraduate student from [School of Information Science and
 Coming soon!
 
 
-### Services
+### News
 
-<p style = "font size: 18px; font-weight : bold;">Reviewer</p>
-<p style = "font size: 15px;">IJCNN</p>
+[2025/02/01] I will serve as a reviewer of IJCNN 2025.
