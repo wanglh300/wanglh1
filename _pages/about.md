@@ -17,5 +17,5 @@ Coming soon
 
 ### Services
 
-<span style = "font size: 18px;">Reviewer</span>
-<span style = "font size: 16px;">IJCNN 2025</span>
+<p style = "font size: 18px;">Reviewer</p>
+<p style = "font size: 15px;">IJCNN 2025</p>
