@@ -10,31 +10,13 @@ redirect_from:
 
 I am a third-year undergraduate student from [School of Information Science and Engineering](http://www.ischool.sdnu.edu.cn/), [Shandong Normal University](http://www.sdnu.edu.cn/). My research interest mainly focuses on generative AI.
 
-A data-driven personal website
-======
 
-Getting started
-======
-
-
-Site-wide configuration
+Publications
 ------
+Coming soon
 
 
-Create content & metadata
+Services
 ------
-
-
-**Markdown generator**
-
-
-
-How to edit your site's GitHub repository
-------
-
-
-
-
-For more info
-------
-
+Reviewer
+IJCNN 2025
