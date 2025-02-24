@@ -12,10 +12,10 @@ I am a third-year undergraduate student from [School of Information Science and 
 
 
 ### Publications
-Coming soon
+Coming soon!
 
 
 ### Services
 
-<p style = "font size: 18px;">Reviewer</p>
+<p style = "font size: 18px; font-weight : bold;">Reviewer</p>
 <p style = "font size: 15px;">IJCNN 2025</p>
